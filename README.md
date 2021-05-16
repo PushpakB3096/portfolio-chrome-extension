@@ -6,8 +6,7 @@ This is a simple chrome extension that I created as a practice. It will allow yo
 
 ## How to add extension locally
 
-- Download the zip folder included in the repo.
-- Unzip it.
-- Open _chrome://extensions_.
-- _Turn on Developer mode_
-- Click _Load unpacked extension_ and browse to the folder. Click open.
+- Clone the repo.
+- Open _chrome://extensions_ in Google Chrome.
+- Turn on _Developer mode_
+- Click _Load unpacked extension_ and browse to the cloned repo folder. Click open.
